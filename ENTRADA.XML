@@ -11,14 +11,6 @@
 
 
 <channel>  
-<name>[COLOR blue] TV [/COLOR] CANAIS FILMES E SÉRIES </name>
-<thumbnail>https://archive.org/download/big-horse/Big%20Horse.jpg</thumbnail>
-<fanart>https://archive.org/download/big-horse/Big%20Horse.jpg</fanart>
-<info>[COLOR red] [COLOR blue] Bem vindo ao addon Ares [/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/Cavaleirorepo2/THEHORSE/refs/heads/main/FIMESSERIESTV.XML</externallink>
-</channel>
-
-<channel>  
 <name>[COLOR green] TV [/COLOR] CANAIS </name>
 <thumbnail>https://archive.org/download/big-horse/Big%20Horse.jpg</thumbnail>
 <fanart>https://archive.org/download/big-horse/Big%20Horse.jpg</fanart>
